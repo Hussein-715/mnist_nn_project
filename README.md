@@ -3,7 +3,7 @@
 A feedforward neural network trained on the MNIST dataset, with an interactive
 Streamlit app that predicts digits drawn by hand in real time.
 
-**🔗 [Live Demo](https://cnflvvkxzcnbhtmu3meoub.streamlit.app/)**
+**🔗 [Live Demo](https://mnistnnproject-vnfzuwsumjurfx8vzndyzd.streamlit.app/)**
 
 ![App demo](Images/app_demo.png)
 
