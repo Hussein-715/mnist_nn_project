@@ -17,6 +17,14 @@ This project follows a three-stage workflow, from experimentation to a live demo
 
 ## Results
 
+![Training vs Validation Accuracy](Images/training_curves/Training_vs_Validation_Accuracy.png)
+
+![Training vs Validation Loss](Images/training_curves/Training_vs_Validation_Loss.png)
+
+![Confusion Matrix](Images/Confusion_Matrix.png)
+
+![Misclassified](Images/Misclassified.png)
+
 | Metric | Value |
 |---|---|
 | Test Accuracy | 97.92% |
